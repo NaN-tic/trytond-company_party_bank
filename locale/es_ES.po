@@ -1,0 +1,63 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:bank.account,payable_bank_account:"
+msgid "Default payable bank account"
+msgstr "Cuenta bancaria a pagar por defecto"
+
+msgctxt "field:bank.account,receivable_bank_account:"
+msgid "Default receivable bank account"
+msgstr "Cuenta bancaria a cobrar por defect"
+
+msgctxt "field:party.bank.account,company:"
+msgid "Company"
+msgstr "Empresa"
+
+msgctxt "field:party.bank.account,create_date:"
+msgid "Create Date"
+msgstr "Data creación"
+
+msgctxt "field:party.bank.account,create_uid:"
+msgid "Create User"
+msgstr "Usuario creación"
+
+msgctxt "field:party.bank.account,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:party.bank.account,party:"
+msgid "Party"
+msgstr "Terceros"
+
+msgctxt "field:party.bank.account,payable_bank_account:"
+msgid "Default Payable Bank Account"
+msgstr "Cuenta bancaria a pagar por defecto"
+
+msgctxt "field:party.bank.account,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:party.bank.account,receivable_bank_account:"
+msgid "Default Receivable Bank Account"
+msgstr "Cuenta bancaria a cobrar por defecto"
+
+msgctxt "field:party.bank.account,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:party.bank.account,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "help:bank.account,payable_bank_account:"
+msgid "Check this box if this is the default bank account for receivable."
+msgstr "Selecciona si es una cuenta a cobrar por defecto."
+
+msgctxt "help:bank.account,receivable_bank_account:"
+msgid "Check this box if this is the default bank account for payments."
+msgstr "Selecciona si es una cuanta a pagar por defecto."
+
+msgctxt "model:party.bank.account,name:"
+msgid "Party Bank Account"
+msgstr "Cuenta bancaria de tercero"
